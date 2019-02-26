@@ -1,4 +1,5 @@
 # Reddit Photo Provider for ShortLook
+[![Build Status](https://travis-ci.org/JeffResc/ShortLook-Reddit.svg?branch=master)](https://travis-ci.org/JeffResc/ShortLook-Reddit)
 
 ![Reddit Photo Provider for ShortLook](https://repo.dynastic.co/data/static/version/152312662603071488/152312995689529344)
 
