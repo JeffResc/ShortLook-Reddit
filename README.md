@@ -14,3 +14,5 @@ You can download this Contact Photo Provider for ShortLook from the [Dynastic Re
 Initial Release
 ## v1.1
 Fixed an issue where some users would experience crashes after receiving notifications.
+## v1.1.1
+Added A12/arm64e support.
